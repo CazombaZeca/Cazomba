@@ -70,7 +70,9 @@ Me chamo Abraão Cazomba Zeca, Estou com 24 anos e sou natural do Cazenga Luanda
 <br>
 ###Frontend
 <br/>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
 ### Backend <br>
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
